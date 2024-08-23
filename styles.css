@@ -2,12 +2,13 @@ body {
  color:lawngreen;
  background: cyan;
  margin: 0px;
+ font-family: "Chakra Petch", sans-serif;
 }
 header {
     border-bottom: solid 2px rgb(10, 80, 5);
     padding: 20px;
     font-size: 32px;
-    color: rgb(5, 138, 63));
+    color: rgb(5, 138, 63);
 }
 section {
     background: rgb(88, 88, 88);
@@ -21,4 +22,10 @@ div {
 }
 .chamada-texto{
     margin-right: 5%;
+}
+h1 {
+    font-size: 60px;
+}
+p {
+    font-size: 20px;
 }
