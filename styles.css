@@ -1,8 +1,9 @@
 body {
  color:lawngreen;
- background: cyan;
+ background: gray;
  margin: 0px;
  font-family: "Chakra Petch", sans-serif;
+ margin-bottom: 100px;
 }
 header {
     border-bottom: solid 2px rgb(10, 80, 5);
@@ -10,18 +11,18 @@ header {
     font-size: 32px;
     color: rgb(5, 138, 63);
 }
-section {
+.chamada {
     background: rgb(88, 88, 88);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
-div {
-    margin-right: 20px;
-}
 .chamada-texto{
     margin-right: 5%;
+}
+div {
+    margin-right: 20px;
 }
 h1 {
     font-size: 60px;
@@ -29,3 +30,4 @@ h1 {
 p {
     font-size: 20px;
 }
+.catego
